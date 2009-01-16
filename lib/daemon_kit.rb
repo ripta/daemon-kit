@@ -7,5 +7,5 @@ require 'daemon_kit/initializer'
 require 'daemon_kit/application'
 
 module DaemonKit
-  VERSION = '0.1.0.1'
+  VERSION = '0.1.0.2'
 end
